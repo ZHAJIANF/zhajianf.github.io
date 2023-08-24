@@ -6,12 +6,15 @@ I am always happy to present my work and discuss about it. Feel free to invite m
 
 December 2019 – British Ecological Society meeting (Belfast)
 “Multi-scale constraints on the spatial dynamics of a pathogen and its consumer: Insights from a network approach”
+
 April 2019 - Michigan Institute for Computation Discovery and Engineering
 “Demographics and the Turing effect: uncovering self-organized spatial structure in a sessile
 population
+
 August 2018 - Ecological Society of America Conference
 "Hidden demographic structure in spatial patterns lend insight into the mechanisms behind self-
 organization"
+
 July 2017 – Association for Tropical Biology and Conservation Merida
 “Evolutionary Constraints the Development of Novel Herbivory in Coffee Agroecosystems – A
 Global Analysis”
