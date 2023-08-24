@@ -13,16 +13,18 @@
 
 20.) Emilio Mora Van Cauwelaert, Cecilia González González, Denis Boyer, Ivette Perfecto, John Vandermeer, **Zachary Hajian-Forooshani**, and Mariana Benítez. "Dispersal and plant arrangement condition the timing and magnitude of coffee rust infection". Ecological Modelling, 475, 110206. (https://doi.org/10.1016/j.ecolmodel.2022.110206) 
 
-19.) Isabella Mayorga, Jose Luiz Vargas de Mendonça, **Zachary Hajian-Forooshani**, Javier Lugo Pérez, and Ivette Perfecto. “Tradeoffs and synergies among ecosystem services, biodiversity conservation, and food security in coffee agroforestry” In revisions at Frontiers in Forests and Global Change
+19.) Isabella Mayorga, Jose Luiz Vargas de Mendonça, **Zachary Hajian-Forooshani**, Javier Lugo Pérez, and Ivette Perfecto. “Tradeoffs and synergies among ecosystem services, biodiversity conservation, and food security in coffee agroforestry”. Frontiers in Forests and Global Change, 164 (https://doi.org/10.3389/ffgc.2022.690164)
 
-18.) Jaques Avelino, Stephanie Ggliardi, Ivette Perfecto, Marney E. Isaac, Theresa Liebig, John Vandermeer, Isabelle Merle, **Zachary Hajian-Forooshani**, Natacha Motisi. “Tree effects on coffee leaf rust at field and landscape scales”. In revisions at Plant Disease
-2022
+18.) Jaques Avelino, Stephanie Ggliardi, Ivette Perfecto, Marney E. Isaac, Theresa Liebig, John Vandermeer, Isabelle Merle, **Zachary Hajian-Forooshani**, Natacha Motisi. “Tree effects on coffee leaf rust at field and landscape scales”. Plant Disease 107 (2), 247-261 (https://doi.org/10.1094/PDIS-08-21-1804-FE)
+
+### 2022
 
 17.) **Zachary Hajian-Forooshani** and John Vandermeer. “Ecological perspectives on the coffee
 leaf rust” Book chapter for Climate-smart production of coffee: Achieving sustainability and ecosystem services (ed. Prof. Reinhold Muschler). ( 10.19103/as.2021.0096.24)
   
 16.) Kevin Li, **Zachary Hajian-Forooshani**, Chenyang Su, Ivette Perfecto, JohnVandermeer. “Reduced rainfall and resistant varieties mediate a critical transition in coffee rust disease” Scientific reports12.1(2022):1-9 (https://doi.org/10.1038/s41598-022-05362-0)
-2021
+
+### 2021
 
 15.) John Vandermeer, **Zachary Hajian-Forooshani**, Nicholas Medina, and Ivette Perfecto.
 "New forms of structure in ecosystems revealed with the Kuramoto model" Proceedings of the Royale Academy Open Science. (10.1098/rsos.210122)
