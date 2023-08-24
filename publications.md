@@ -1,15 +1,15 @@
 ## Publications
 
-[Google Scholar](https://scholar.google.com/xxx)  \|  [ORCID](https://orcid.org/0000-0002-6766-3904)  \| 
+\| [Google Scholar](https://scholar.google.com/xxx)  \|  [ORCID](https://orcid.org/0000-0002-6766-3904)  \| 
 
 
 24.) Javier Lugo-Pérez, **Zachary Hajian-Forooshani**, Ivette Perfecto, John Vandermeer. "The importance of shade trees in promoting carbon storage in the coffee agroforest systems". Agriculture, Ecosystems & Environment 355, 108594 (https://doi.org/10.1016/j.agee.2023.108594)
 
 23.) Kevin Li, **Zachary Hajian-Forooshani**, John Vandermeer, Ivette Perfecto"Coffee leaf rust (Hemileia vastatrix) is spread by rain splash from infected leaf litter in a semi-controlled experiment". Journal of Plant Pathology, 1-6 (https://doi.org/10.1007/s42161-023-01404-2)
 
-22.) Zachary Hajian-Forooshani, Ivette Perfecto and John Vandermeer. “Novel community assembly and the control of fungal pathogen in Puerto Rican coffee agroecosystems”. Biological Control 177, 105099 (https://doi.org/10.1016/j.biocontrol.2022.105099)
+22.) **Zachary Hajian-Forooshani**, Ivette Perfecto and John Vandermeer. “Novel community assembly and the control of fungal pathogen in Puerto Rican coffee agroecosystems”. Biological Control 177, 105099 (https://doi.org/10.1016/j.biocontrol.2022.105099)
 
-21.) John Vandermeer and Zachary Hajian-Forooshani. “Notes on the interplay of extinction and synchrony in the dynamics of metapopulation formation”. ArXiv Preprint (https://arxiv.org/abs/2104.01611v2)
+21.) John Vandermeer and **Zachary Hajian-Forooshani**. “Notes on the interplay of extinction and synchrony in the dynamics of metapopulation formation”. ArXiv Preprint (https://arxiv.org/abs/2104.01611v2)
 
 20.) Emilio Mora Van Cauwelaert, Cecilia González González, Denis Boyer, Ivette Perfecto, John Vandermeer, **Zachary Hajian-Forooshani**, and Mariana Benítez. "Dispersal and plant arrangement condition the timing and magnitude of coffee rust infection". Ecological Modelling, 475, 110206. (https://doi.org/10.1016/j.ecolmodel.2022.110206) 
 
