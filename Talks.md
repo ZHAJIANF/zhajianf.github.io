@@ -32,7 +32,9 @@ April 2013 - 27th National Conference on Undergraduate Research
 Agroecosystem”
 
 August 2012 - Ecological Society of America Annual Conference
-“Context dependent interaction strength in an indirect ant-plant protection mutualism”, July 2012 - ED-QUEST Symposium
+“Context dependent interaction strength in an indirect ant-plant protection mutualism”, 
+
+July 2012 - ED-QUEST Symposium
 “Local and Landscape Perspectives on Canopy Dwelling Spider Communities in a Tropical
 Agricultural Setting”
 
