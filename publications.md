@@ -1,6 +1,6 @@
 ## Publications
 
-\| [Google Scholar](https://scholar.google.com/xxx)  \|  [ORCID](https://orcid.org/0000-0002-6766-3904)  \| 
+\| [Google Scholar](https://scholar.google.com/citations?user=6HK2JzYAAAAJ&hl=en)  \|  [ORCID](https://orcid.org/0000-0002-9092-4500)  \| 
 
 
 24.) Javier Lugo-Pérez, **Zachary Hajian-Forooshani**, Ivette Perfecto, John Vandermeer. "The importance of shade trees in promoting carbon storage in the coffee agroforest systems". Agriculture, Ecosystems & Environment 355, 108594 (https://doi.org/10.1016/j.agee.2023.108594)
