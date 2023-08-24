@@ -1,5 +1,5 @@
 ## About
-[Google Scholar](https://scholar.google.com/citations?user=6HK2JzYAAAAJ&hl=en)  \|  [ORCID]([https://orcid.org/0000-0002-6766-3904](https://orcid.org/0000-0002-9092-4500))  \|  
+[Google Scholar](https://scholar.google.com/citations?user=6HK2JzYAAAAJ&hl=en)  \|  [ORCID](https://orcid.org/0000-0002-9092-4500)  \|  
 
 <img style="padding: 0 15px; float: right;" src="profile_DH.jpg" align="right" width="220">
                                       
