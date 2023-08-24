@@ -12,7 +12,7 @@
 
 21.) Jaques Avelino, Stephanie Ggliardi, Ivette Perfecto, Marney E. Isaac, Theresa Liebig, John Vandermeer, Isabelle Merle, **Zachary Hajian-Forooshani**, Natacha Motisi. “Tree effects on coffee leaf rust at field and landscape scales”.(2023) **Plant Disease** 107 (2), 247-261 [https://doi.org/10.1094/PDIS-08-21-1804-FE]
 
-20.) Emilio Mora Van Cauwelaert, Cecilia González González, Denis Boyer, Ivette Perfecto, John Vandermeer, **Zachary Hajian-Forooshani**, and Mariana Benítez. *Dispersal and plant arrangement condition the timing and magnitude of coffee rust infection*. (2023) **Ecological Modelling**, 475, 110206. [https://doi.org/10.1016/j.ecolmodel.2022.110206)]
+20.) Emilio Mora Van Cauwelaert, Cecilia González González, Denis Boyer, Ivette Perfecto, John Vandermeer, **Zachary Hajian-Forooshani**, and Mariana Benítez. *Dispersal and plant arrangement condition the timing and magnitude of coffee rust infection*. (2023) **Ecological Modelling**, 475, 110206. [https://doi.org/10.1016/j.ecolmodel.2022.110206]
 
 ### 2022
 
