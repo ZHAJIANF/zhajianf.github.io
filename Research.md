@@ -8,7 +8,7 @@ My interests are in doing things that are fun
 
 
 ## Spatial dyanmics of ecological interactions
-<img style="padding: 0 15px; float: right;" src="ant banner.png" align="left" width="900">   
+<img style="padding: 0 15px; float: right;" src="updated ant banner.png" align="left" width="900">   
 
 
 
