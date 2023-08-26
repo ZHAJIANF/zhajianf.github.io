@@ -3,16 +3,15 @@
 
 <img style="padding: 0 15px; float: right;" src="Zack baiting ants.jpg" align="right" width="220">
                                       
-
-I am a Brazilian Postdoc researcher in Ecology at the [sDiv](https://www.idiv.de/en/sdiv.html) Synthesis Centre at [iDiv](https://www.idiv.de/en/sdiv.html), currently working on Plant Ecology and Biodiversity and Ecosystem Functioning as a result of my interest in conservation and sustainability. My research focus is on the influence of climate change on plant communities, and I also have interests in ecological restoration and the ecology of invasive plants.
-
-
-Jan.2022 - Jan.2024: **Postdoc position** in the [sDiv](https://www.idiv.de/en/sdiv.html) Synthesis Centre at the German Centre for Integrative Biodiversity Research [(iDiv)](https://www.idiv.de/en/sdiv.html) Halle-Jena-Leipzig, working in collaboration with [Prof Dr. Helge Bruelheide](https://www.botanik.uni-halle.de/geobotanik/helge_bruelheide/), [Prof Dr. Jonathan Chase](https://www.idiv.de/en/groups-and-people/core-groups/synthesis.html), and [Prof. Dr. Valério D. Pillar](https://www.researchgate.net/profile/Valerio-Pillar). 
-
-Mar.2017 - Nov.2021: **PhD student** at the [Universidade Federal do Rio Grande do Sul, Department of Ecology (PT)](https://www.ufrgs.br/ppgecologia/)/ [(EN)](https://www.ufrgs.br/ppgecologia/en/) in Porto Alegre, working with [Valério D. Pillar](https://www.researchgate.net/profile/Valerio-Pillar) on Grassland vegetation ecology.
+I am a community ecologists with broad interests in ecological theory, complex systems and agroecology. I am currently a postdoctoral reseracher at the German Centre for Integrative Biodiversity Research [(iDiv)](https://www.idiv.de/en.html) working with [Dr. Jonathan Chase](https://www.idiv.de/en/groups-and-people/core-groups/synthesis.html) using  metacommunity theory to understand how global change and anthropogenic pressures structure the dynamics and patterns of biodiversity. 
 
 
+Jan.2022 - Jan.2024: **Postdoc position** 
 
- <img src="rem1.jpeg"  align="center" width="700">
+Sept.2016 - Dec.2022: **PhD student** at the University of Michigan I worked with [Dr. John Vandermeer](https://scholar.google.com/citations?user=J1FqM5IAAAAJ&hl=en) and [Dr. Ivette Perfecto](https://scholar.google.com/citations?hl=en&user=WammKXQAAAAJ). My doctoral work was concerned with feedbacks between ecological interactions and spatial pattern formation, trying to understand how these feedbacks structure the assembly and functioning of ecological communities in the context of agroecosystems. 
+
+
+
+ <img src="pr landscape.jpg"  align="center" width="1000">
 
 
