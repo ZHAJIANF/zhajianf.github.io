@@ -3,10 +3,14 @@ My interests are in doing things that are fun
 
 
 ## The community ecology of the coffee leaf rust 
+<img style="padding: 0 15px; float: right;" src="CLR_mycoparasite_banner.jpg" align="left" width="900">   
 
 
 
 ## Spatial dyanmics of ecological interactions
+<img style="padding: 0 15px; float: right;" src="ant banner.png" align="left" width="900">   
+
+
 
 **Competitive communities**
 
