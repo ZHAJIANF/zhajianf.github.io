@@ -1,7 +1,7 @@
 ## About
 [Google Scholar](https://scholar.google.com/citations?user=6HK2JzYAAAAJ&hl=en)  \|  [ORCID](https://orcid.org/0000-0002-9092-4500)  \|  
 
-<img style="padding: 0 15px; float: right;" src="profile_DH.jpg" align="right" width="220">
+<img style="padding: 0 15px; float: right;" src="Zack baiting ants.jpg" align="right" width="220">
                                       
 
 I am a Brazilian Postdoc researcher in Ecology at the [sDiv](https://www.idiv.de/en/sdiv.html) Synthesis Centre at [iDiv](https://www.idiv.de/en/sdiv.html), currently working on Plant Ecology and Biodiversity and Ecosystem Functioning as a result of my interest in conservation and sustainability. My research focus is on the influence of climate change on plant communities, and I also have interests in ecological restoration and the ecology of invasive plants.
