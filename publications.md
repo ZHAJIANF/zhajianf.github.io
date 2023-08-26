@@ -11,7 +11,7 @@
 
 * 23.) Kevin Li, **Zachary Hajian-Forooshani**, John Vandermeer, Ivette Perfecto [*Coffee leaf rust (Hemileia vastatrix) is spread by rain splash from infected leaf litter in a semi-controlled experiment*](https://doi.org/10.1007/s42161-023-01404-2). **Journal of Plant Pathology**, 1-6 
 
-* 22.) **Zachary Hajian-Forooshani**, Ivette Perfecto and John Vandermeer. (*Novel community assembly and the control of fungal pathogen in Puerto Rican coffee agroecosystems*)https://doi.org/10.1016/j.biocontrol.2022.105099]. **Biological Control** 177, 105099 
+* 22.) **Zachary Hajian-Forooshani**, Ivette Perfecto and John Vandermeer. [*Novel community assembly and the control of fungal pathogen in Puerto Rican coffee agroecosystems*](https://doi.org/10.1016/j.biocontrol.2022.105099). **Biological Control** 177, 105099 
 
 * 21.) Jaques Avelino, Stephanie Ggliardi, Ivette Perfecto, Marney E. Isaac, Theresa Liebig, John Vandermeer, Isabelle Merle, **Zachary Hajian-Forooshani**, Natacha Motisi. [*Tree effects on coffee leaf rust at field and landscape scales*](https://doi.org/10.1094/PDIS-08-21-1804-FE).(2023) **Plant Disease** 107 (2), 247-261
 
