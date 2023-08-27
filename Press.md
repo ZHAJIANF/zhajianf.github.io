@@ -1,21 +1,19 @@
-## Press outputs
+# Press on research and outreach 
 
-### Insights from excrement: invasive gastropods shift diet to consume the coffee leaf rust and its mycoparasite
-Climate change and researchers from [YCL](https://youtu.be/LAg2nEbgleQ) (PT)
+### Media coverage on coffee rust eating gastropods 
 
-[Could an Invasive Snail Save Your Morning Coffee?](https://www.nytimes.com/2020/03/11/science/snail-coffee-leaf-rust.html) (PT)
-[Éste caracol es un héroe: puede salvar el café para toda la humanidad] (https://www.elespanol.com/ciencia/medio-ambiente/20200127/caracol-heroe-puede-salvar-cafe-toda-humanidad/462203779_0.html) (ESP) 
+* **New York Times** - [Could an Invasive Snail Save Your Morning Coffee?](https://www.nytimes.com/2020/03/11/science/snail-coffee-leaf-rust.html) 
 
-[https://www.atlasobscura.com/articles/what-is-coffee-rust]
+* **Smithsonian Magazine** - [Invasive Snails Might Save Coffee Crops From Fungus, but Experts Advise Caution ](https://www.smithsonianmag.com/smart-news/snails-might-save-coffee-crops-fungus-experts-advise-caution-180974397/)
 
-[https://www.smithsonianmag.com/smart-news/snails-might-save-coffee-crops-fungus-experts-advise-caution-180974397/]
+* **National Geographic** - [How this invasive snail could save your coffee from destruction](https://www.nationalgeographic.com/science/article/how-this-invasive-snail-could-save-coffee-from-destruction)
 
-[https://www.nationalgeographic.com/science/article/how-this-invasive-snail-could-save-coffee-from-destruction]
+* **Atlas Obscura** - [What Tiny Snail Poop Could Mean For Latin America’s Coffee Farms](https://www.atlasobscura.com/articles/what-is-coffee-rust)
 
-https://www.eurekalert.org/pub_releases/2020-01/uom-cat012220.php https://sprudge.com/hero-snail-saves-coffee-crops-by-doing-snail-stuff-158554.html  # Dead link
-https://modernfarmer.com/2020/01/this-weird-snail-eats-the-fungus-thats-decimating-coffee- crops/ # Dead link
-https://www.freepressjournal.in/world/snails-to-now-shield-coffee-from-fungus
-https://www.elespanol.com/ciencia/medio-ambiente/20200127/caracol-heroe-puede-salvar-cafe- toda-humanidad/462203779_0.html
+* **EL ESPAÑOL** - [Éste caracol es un héroe: puede salvar el café para toda la humanidad](https://www.elespanol.com/ciencia/medio-ambiente/20200127/caracol-heroe-puede-salvar-cafe-toda-humanidad/462203779_0.html)
+
+
+
 
 ### The Community Ecology of Herbivore Regulation in an Agroecosystem: Lessons from Complex Systems
 https://news.umich.edu/azteca-ant-colonies-move-the-same-way-leopards-spots-form/
