@@ -1,7 +1,7 @@
 # Press on research and outreach 
 
 ### Media coverage on coffee rust eating gastropods 
-<img style="padding: 0 15px; float: right;" src="CLR_snail_gif.gif" align="center" width="900">    
+<img style="padding: 0 15px; float: right;" src="CLR_snail_gif.gif" align="center" width="800">    
 
 * **New York Times** - [Could an Invasive Snail Save Your Morning Coffee?](https://www.nytimes.com/2020/03/11/science/snail-coffee-leaf-rust.html) 
 
