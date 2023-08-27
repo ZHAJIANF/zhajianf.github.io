@@ -1,14 +1,11 @@
 ## Research interests
-I am broadly interested in ecology, evolutionary biology, and 
 
 ## The community ecology of the coffee leaf rust 
 <img style="padding: 0 15px; float: right;" src="updated clr banner.png" align="center" width="600">    
 
-Much of my empricial research aims to understand **how the assembly of novel ecological communities within agroecosystems impact the dynamics of ecological processes and the subsequent provisioning of ecosystem services such as biological control**, by using the coffee agroecosystem and a widespread and devastating pathogen of coffee, the coffee leaf rust (CLR), *Hemileia vastrix* as a model system. This line of research allows me to couple my passion for natural history and field work with my desire to apply ecological theory to societal issues of practical importance.
+Much of my empricial research aims to understand **how the assembly of novel ecological communities within agroecosystems impact the dynamics of ecological processes and the subsequent provisioning of ecosystem services such as biological control**, by using the coffee agroecosystem and a widespread and devastating pathogen of coffee, the coffee leaf rust (CLR), *Hemileia vastrix* as a model system. I have worked to elucidate the interaction networks of the coffee rust in Mexico and Puerto Rico in an attempt to understand how the diverse and regionally specific communities of natural enemies in different regions impact the pathogen’s dynamics. *This line of research allows me to couple my passion for natural history and field work with my desire to apply ecological theory to societal issues of practical importance*.
 
-I have worked to elucidate the interaction networks of the coffee rust in Mexico and Puerto Rico in an attempt to understand how the diverse and regionally specific communities of natural enemies in different regions impact the pathogen’s dynamics. 
-
-<img style="padding: 0 15px; float: right;" src="CLR_networks.jpg" align="center" width="600">   
+<img style="padding: 0 15px; float: right;" src="CLR natural enemies pic.png" align="center" width="600">   
 
 
 * **Zachary Hajian-Forooshani**, Ivette Perfecto and John Vandermeer. [*Novel community assembly and the control of fungal pathogen in Puerto Rican coffee agroecosystems*](https://doi.org/10.1016/j.biocontrol.2022.105099). **Biological Control** 177, 105099
