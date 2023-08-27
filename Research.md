@@ -32,35 +32,15 @@ Perfecto, & John Vandermeer. (2016). [*Impact of Regionally Distinct Agroecosyst
 
 * Emilio Mora Van Cauwelaert, Cecilia González González, Denis Boyer, Ivette Perfecto, John Vandermeer, **Zachary Hajian-Forooshani**, and Mariana Benítez. [*Dispersal and plant arrangement condition the timing and magnitude of coffee rust infection*](https://doi.org/10.1016/j.ecolmodel.2022.110206). (2023) **Ecological Modelling**, 475, 110206.
   
-
-
-
-
-
-
-
-
 ## Spatial dyanmics of ecological interactions
 <img style="padding: 0 15px; float: right;" src="updated ant banner.png" align="center" width="600">   
 
-
-
-
-
 **Competitive communities**
-
-
-
 
 **Consumer resrouce communities**
 
-
-
-
-
 ### Other projects
-I like other things
-
+I like other thing
 
 <img style="padding: 0 15px; float: right;" src="spatial_competition_full_vandy_matrix_for_git.gif" align="left" width="520">   
 
