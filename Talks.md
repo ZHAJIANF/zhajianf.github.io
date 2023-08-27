@@ -1,6 +1,6 @@
 ## Talks and presentation
 
-I am always happy to present my work and discuss about it. Feel free to invite me for a seminar in your lab!
+I am always happy to present my work so if interested please reach out! 
 
 ### Talks in conference
 
@@ -40,5 +40,4 @@ Agricultural Setting”
 
 April 2012 - UROP Research Symposium
 “Indirect Effects of Shade Trees on Coffee Pest Control by Arboreal Ants”
-### Invited seminars
 
