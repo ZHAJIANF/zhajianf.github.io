@@ -13,6 +13,10 @@
 
 * 22.) **Zachary Hajian-Forooshani**, Ivette Perfecto and John Vandermeer. [*Novel community assembly and the control of fungal pathogen in Puerto Rican coffee agroecosystems*](https://doi.org/10.1016/j.biocontrol.2022.105099). **Biological Control** 177, 105099 
 
+
+<img style="padding: 0 15px; float: right;" src="CLR_community_map.png" align="right" width="400">   
+
+
 * 21.) Jaques Avelino, Stephanie Ggliardi, Ivette Perfecto, Marney E. Isaac, Theresa Liebig, John Vandermeer, Isabelle Merle, **Zachary Hajian-Forooshani**, Natacha Motisi. [*Tree effects on coffee leaf rust at field and landscape scales*](https://doi.org/10.1094/PDIS-08-21-1804-FE).(2023) **Plant Disease** 107 (2), 247-261
 
 * 20.) Emilio Mora Van Cauwelaert, Cecilia González González, Denis Boyer, Ivette Perfecto, John Vandermeer, **Zachary Hajian-Forooshani**, and Mariana Benítez. [*Dispersal and plant arrangement condition the timing and magnitude of coffee rust infection*](https://doi.org/10.1016/j.ecolmodel.2022.110206). (2023) **Ecological Modelling**, 475, 110206. 
@@ -28,12 +32,17 @@ leaf rust*](10.19103/as.2021.0096.24) Book chapter for Climate-smart production 
 
 ### 2021
 
-* 16.) John Vandermeer and **Zachary Hajian-Forooshani**. [*Notes on the interplay of extinction and synchrony in the dynamics of metapopulation formation*](https://arxiv.org/abs/2104.01611v2). (2021) **ArXiv** Preprint 
+* 16.) John Vandermeer and **Zachary Hajian-Forooshani**. [*Notes on the interplay of extinction and synchrony in the dynamics of metapopulation formation*](https://arxiv.org/abs/2104.01611v2). (2021) **ArXiv** Preprint
+
+  <img style="padding: 0 15px; float: right;" src="spatial_structure_pathogen_spread.png" align="right" width="400">   
+
 
 * 15.) John Vandermeer, **Zachary Hajian-Forooshani**, Nicholas Medina, and Ivette Perfecto.
 [*New forms of structure in ecosystems revealed with the Kuramoto model*](10.1098/rsos.210122) **Proceedings of the Royale Academy Open Science**. 
 
+
 * 14.) **Zachary Hajian-Forooshani**, and John Vandermeer. [*Emergent spatial structure and pathogen epidemics: the influence of management and stochasticity in agroecosystems*](https://doi.org/10.1016/j.ecocom.2020.100872) **Ecological Complexity** (2021): 100872.
+
 
 * 13.) **Zachary Hajian-Forooshani** and John Vandermeer (2021). [*Viewing communities as coupled oscillators: elementary forms from Lotka and Volterra to Kuramoto*](https://doi.org/10.1007/s12080-020-00493-4). **Theoretical Ecology**, 1-8.
 
@@ -41,8 +50,12 @@ leaf rust*](10.19103/as.2021.0096.24) Book chapter for Climate-smart production 
 
 ### 2020
 
+
 * 11.) **Zachary Hajian-Forooshani**, John Vandermeer, and Ivette Perfecto. [*Insights from
 excrement: Invasive gastropods shift diet to consume the coffee leaf rust and its mycoparasite*](https://doi.org/10.1002/ecy.2966). **Ecology**, e02966 
+
+<img style="padding: 0 15px; float: right;" src="CLR_snail_fig_pic.png" align="right" width="300">   
+
 
 ### 2019
 
