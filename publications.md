@@ -25,6 +25,7 @@
 
 * 19.) **Zachary Hajian-Forooshani** and John Vandermeer. [*Ecological perspectives on the coffee
 leaf rust*](10.19103/as.2021.0096.24) Book chapter for Climate-smart production of coffee: Achieving sustainability and ecosystem services (ed. Prof. Reinhold Muschler). (2022) 
+  <img style="padding: 0 15px; float: right;" src="spatial_structure_pathogen_spread.png" align="right" width="400">   
 
 * 18.) Isabella Mayorga, Jose Luiz Vargas de Mendonça, **Zachary Hajian-Forooshani**, Javier Lugo Pérez, and Ivette Perfecto. [*Tradeoffs and synergies among ecosystem services, biodiversity conservation, and food security in coffee agroforestry*](https://doi.org/10.3389/ffgc.2022.690164).(2022) **Frontiers in Forests and Global Change**, 164 
   
@@ -34,7 +35,6 @@ leaf rust*](10.19103/as.2021.0096.24) Book chapter for Climate-smart production 
 
 * 16.) John Vandermeer and **Zachary Hajian-Forooshani**. [*Notes on the interplay of extinction and synchrony in the dynamics of metapopulation formation*](https://arxiv.org/abs/2104.01611v2). (2021) **ArXiv** Preprint
 
-  <img style="padding: 0 15px; float: right;" src="spatial_structure_pathogen_spread.png" align="right" width="400">   
 
 
 * 15.) John Vandermeer, **Zachary Hajian-Forooshani**, Nicholas Medina, and Ivette Perfecto.
@@ -46,6 +46,8 @@ leaf rust*](10.19103/as.2021.0096.24) Book chapter for Climate-smart production 
 
 * 13.) **Zachary Hajian-Forooshani** and John Vandermeer (2021). [*Viewing communities as coupled oscillators: elementary forms from Lotka and Volterra to Kuramoto*](https://doi.org/10.1007/s12080-020-00493-4). **Theoretical Ecology**, 1-8.
 
+<img style="padding: 0 15px; float: right;" src="CLR_snail_fig_pic.png" align="right" width="300">   
+
 * 12.) Ivette Perfecto, **Zachary Hajian-Forooshani**, Alexa White, and John Vandermeer. [*Ecological complexity and contingency: Ants and lizards affect biological control of the coffee leaf miner in Puerto Rico*](https://doi.org/10.1016/j.agee.2020.107104). **Agriculture, Ecosystems & Environment** 305 (2021): 107104. 
 
 ### 2020
@@ -54,7 +56,6 @@ leaf rust*](10.19103/as.2021.0096.24) Book chapter for Climate-smart production 
 * 11.) **Zachary Hajian-Forooshani**, John Vandermeer, and Ivette Perfecto. [*Insights from
 excrement: Invasive gastropods shift diet to consume the coffee leaf rust and its mycoparasite*](https://doi.org/10.1002/ecy.2966). **Ecology**, e02966 
 
-<img style="padding: 0 15px; float: right;" src="CLR_snail_fig_pic.png" align="right" width="300">   
 
 
 ### 2019
@@ -67,6 +68,9 @@ excrement: Invasive gastropods shift diet to consume the coffee leaf rust and it
 * 8.) John Vandermeer, Inge Armbrecht, Aldo de la Mora, Kate Ennis, Dave Gonthier, **Zachary Hajian-Forooshani**, Hsun-Yi Hsieh, Aaron Iverson, Doug Jackson, Shalene Jha, Esteli Jiménez-Soto, Gustavo Lopez-Bautista, Ashley Larson, Kevin Li, Heidi Liere, Andy MacDonald, Kate Mathis, Ivan Monagan, Jonathan Morris, Theresa Ong, Gabriella L. Pardee, Iris Seraeny, Kimberly Williams-Guillen, Senay Yitbarek, Ash Zemenick, Stacy Philpott, Ivette Perfecto. [*The community ecology of herbivore regulation in an agroecosystem: lessons from complex system*](https://doi.org/10.1093/biosci/biz127). **BioScience** 69 (12), 974-996 
          
 * 7.) Perfecto, Ivette, **Zachary Hajian-Forooshani**, Aaron Iverson, Amarilys D. Irizarry, Javier Lugo-Perez, Nicholas Medina, Chatura Vaidya, Alexa White, and John Vandermeer. [*Response of Coffee Farms to Hurricane Maria: Resistance and Resilience from an Extreme Climatic Event*](https://doi.org/10.1038/s41598-019-51416-1). **Scientific reports** 9, no. 1 (2019): 1- 11.
+  
+* <img style="padding: 0 15px; float: right;" src="leaf_litter_community_composition.png" align="right" width="300">   
+
 
 ### 2018
 * 6.) Daniel Karp... **Zachary Hajian-Forooshani** ... et al. (153 Authors) (2018). [*Crop pests and
@@ -77,6 +81,7 @@ predators exhibit inconsistent responses to surrounding landscape composition*](
 * 4.) John Vandermeer, **Zachary Hajian-Forooshani**, & Ivette Perfecto, (2018). [*The dynamics of the coffee rust disease: an epidemiological approach using network theory*](https://doi.org/10.1007/s10658-017-1339-x). **European Journal of Plant Pathology**, 1-10.
 
 * 3.) **Zachary Hajian-Forooshani**, Ryan Kuessel, David J. Gonthier. (2018) [*Explaining the distribution of Rhabdopterus jansoni in coffee plantations: Insights from diet breadth and preference*](https://doi.org/10.1007/s10457-016-0044-7). **Agroforestry Systems**:, 1-8.
+
 
 ### 2017 and prior
 * 2.) **Zachary Hajian-Forooshani**, Iris Saraeny Rivera Salinas, Esteli Jiménez-Soto, Ivette
