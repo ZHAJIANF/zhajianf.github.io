@@ -9,7 +9,7 @@ I am a community ecologists with broad interests in ecological theory, complex s
 
 In 2022 I earned my PhD at the University of Michigan where I worked with [Dr. John Vandermeer](https://scholar.google.com/citations?user=J1FqM5IAAAAJ&hl=en) and [Dr. Ivette Perfecto](https://scholar.google.com/citations?hl=en&user=WammKXQAAAAJ). My doctoral work was largely concerned with how spatial processes structure the assembly and functioning of ecological communities in the context of agroecosystems. 
 
-Please get in touch to chat about shared interests (including but not limited to: theory, agroecology, ragtime). I'm always looking for kind people to work and think together with! 
+Please get in touch to chat about shared interests (including but not limited to: theory, agroecology, stride piano). I'm always looking for kind people to work and think together with! 
 
 **email**: zachary.hajian-forooshani@idiv.de
 
