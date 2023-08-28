@@ -9,12 +9,12 @@
 
 * 24.) Javier Lugo-Pérez, **Zachary Hajian-Forooshani**, Ivette Perfecto, John Vandermeer. [*The importance of shade trees in promoting carbon storage in the coffee agroforest systems*](https://doi.org/10.1016/j.agee.2023.108594). **Agriculture, Ecosystems & Environment** 355, 108594 
 
-* 23.) Kevin Li, **Zachary Hajian-Forooshani**, John Vandermeer, Ivette Perfecto [*Coffee leaf rust (Hemileia vastatrix) is spread by rain splash from infected leaf litter in a semi-controlled experiment*](https://doi.org/10.1007/s42161-023-01404-2). **Journal of Plant Pathology**, 1-6 
+* 23.) Kevin Li, **Zachary Hajian-Forooshani**, John Vandermeer, Ivette Perfecto [*Coffee leaf rust (Hemileia vastatrix) is spread by rain splash from infected leaf litter in a semi-controlled experiment*](https://doi.org/10.1007/s42161-023-01404-2). **Journal of Plant Pathology**, 1-6
+
+ <img style="padding: 0 15px; float: right;" src="CLR_community_map.png" align="right" width="400">   
+
 
 * 22.) **Zachary Hajian-Forooshani**, Ivette Perfecto and John Vandermeer. [*Novel community assembly and the control of fungal pathogen in Puerto Rican coffee agroecosystems*](https://doi.org/10.1016/j.biocontrol.2022.105099). **Biological Control** 177, 105099 
-
-
-<img style="padding: 0 15px; float: right;" src="CLR_community_map.png" align="right" width="400">   
 
 
 * 21.) Jaques Avelino, Stephanie Ggliardi, Ivette Perfecto, Marney E. Isaac, Theresa Liebig, John Vandermeer, Isabelle Merle, **Zachary Hajian-Forooshani**, Natacha Motisi. [*Tree effects on coffee leaf rust at field and landscape scales*](https://doi.org/10.1094/PDIS-08-21-1804-FE).(2023) **Plant Disease** 107 (2), 247-261
@@ -25,7 +25,7 @@
 
 * 19.) **Zachary Hajian-Forooshani** and John Vandermeer. [*Ecological perspectives on the coffee
 leaf rust*](10.19103/as.2021.0096.24) Book chapter for Climate-smart production of coffee: Achieving sustainability and ecosystem services (ed. Prof. Reinhold Muschler). (2022) 
-  <img style="padding: 0 15px; float: right;" src="spatial_structure_pathogen_spread.png" align="right" width="400">   
+  <img style="padding: 0 15px; float: right;" src="spatial_structure_pathogen_spread.png" align="right" width="200">   
 
 * 18.) Isabella Mayorga, Jose Luiz Vargas de Mendonça, **Zachary Hajian-Forooshani**, Javier Lugo Pérez, and Ivette Perfecto. [*Tradeoffs and synergies among ecosystem services, biodiversity conservation, and food security in coffee agroforestry*](https://doi.org/10.3389/ffgc.2022.690164).(2022) **Frontiers in Forests and Global Change**, 164 
   
@@ -46,7 +46,7 @@ leaf rust*](10.19103/as.2021.0096.24) Book chapter for Climate-smart production 
 
 * 13.) **Zachary Hajian-Forooshani** and John Vandermeer (2021). [*Viewing communities as coupled oscillators: elementary forms from Lotka and Volterra to Kuramoto*](https://doi.org/10.1007/s12080-020-00493-4). **Theoretical Ecology**, 1-8.
 
-<img style="padding: 0 15px; float: right;" src="CLR_snail_fig_pic.png" align="right" width="300">   
+<img style="padding: 0 15px; float: right;" src="CLR_snail_fig_pic.png" align="right" width="200">   
 
 * 12.) Ivette Perfecto, **Zachary Hajian-Forooshani**, Alexa White, and John Vandermeer. [*Ecological complexity and contingency: Ants and lizards affect biological control of the coffee leaf miner in Puerto Rico*](https://doi.org/10.1016/j.agee.2020.107104). **Agriculture, Ecosystems & Environment** 305 (2021): 107104. 
 
@@ -55,7 +55,6 @@ leaf rust*](10.19103/as.2021.0096.24) Book chapter for Climate-smart production 
 
 * 11.) **Zachary Hajian-Forooshani**, John Vandermeer, and Ivette Perfecto. [*Insights from
 excrement: Invasive gastropods shift diet to consume the coffee leaf rust and its mycoparasite*](https://doi.org/10.1002/ecy.2966). **Ecology**, e02966 
-
 
 
 ### 2019
@@ -69,7 +68,7 @@ excrement: Invasive gastropods shift diet to consume the coffee leaf rust and it
          
 * 7.) Perfecto, Ivette, **Zachary Hajian-Forooshani**, Aaron Iverson, Amarilys D. Irizarry, Javier Lugo-Perez, Nicholas Medina, Chatura Vaidya, Alexa White, and John Vandermeer. [*Response of Coffee Farms to Hurricane Maria: Resistance and Resilience from an Extreme Climatic Event*](https://doi.org/10.1038/s41598-019-51416-1). **Scientific reports** 9, no. 1 (2019): 1- 11.
   
-* <img style="padding: 0 15px; float: right;" src="leaf_litter_community_composition.png" align="right" width="300">   
+* <img style="padding: 0 15px; float: right;" src="leaf_litter_community_composition.png" align="right" width="200">   
 
 
 ### 2018
