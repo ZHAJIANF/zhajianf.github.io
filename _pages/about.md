@@ -1,6 +1,6 @@
 ---
-title: “about me”
-permalink: /about/
+title: “About me”
+permalink: /aboutme/
 date: 2016-02-24T03:02:20+00:00
 ---
 
