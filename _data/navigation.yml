@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "About me"
-    url: /aboutme/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "About"
+    url: /
+  - title: "is this me?"
+    url: /me/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
