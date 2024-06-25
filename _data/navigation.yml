@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About Zackito"
-    url: /about/
+    url: /
   - title: "is this me?"
     url: /me/
   # - title: "Sample Collections"
